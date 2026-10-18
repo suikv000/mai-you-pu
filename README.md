@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/形式-Skill%20%2B%20Web-466B52?style=flat-square" alt="Skill + Web" />
     <img src="https://img.shields.io/badge/原创代码-MIT-817868?style=flat-square" alt="MIT" />
   </p>
-  <p><a href="https://suikv000.github.io/mai-you-pu/">🍟 在线体验</a> · <a href="#运行演示">本地运行</a> · <a href="#安装-skill">安装 Skill</a> · <a href="MCP_INTEGRATION.md">MCP 接入</a> · <a href="dist/recipes.json">翻翻配方库</a></p>
+  <p><a href="https://suikv000.github.io/mai-you-pu/">🍟 在线体验</a> · <a href="docs/DEVELOPMENT.md">开发文档</a> · <a href="#安装-skill">安装 Skill</a> · <a href="MCP_INTEGRATION.md">MCP 接入</a> · <a href="dist/recipes.json">翻翻配方库</a></p>
 </div>
 
 ![麦有谱交互界面：选择餐品，发现组合吃法](docs/images/preview.png)
@@ -44,17 +44,13 @@
 
 适合想换种吃法、利用已有餐品或关注季节单品的消费者。独立创意项目，非麦当劳官方产品。
 
-## 运行演示
+## 在线体验
 
 **[打开在线演示 →](https://suikv000.github.io/mai-you-pu/)** · 无需安装或填写 Token，即可选餐品、匹配吃法和下载分享卡。活动区展示带日期的历史快照。
 
-需要 Python 3，无第三方依赖。在仓库目录运行：
+选择薯条与圆筒，点击“这几样怎么吃”；或选择双吉和两块麦乐鸡，勾选“只用这些”。详情可看来源、步骤和下载分享卡。
 
-```sh
-python3 -m http.server 8768 --bind 127.0.0.1 --directory dist
-```
-
-打开 http://127.0.0.1:8768/ 。选择薯条与圆筒，点击“这几样怎么吃”；或选择双吉和两块麦乐鸡，勾选“只用这些”。详情可看来源、步骤和下载分享卡。
+下载源码后自行运行，请看 [本地开发说明](docs/DEVELOPMENT.md)。
 
 ## 安装 Skill
 
@@ -83,7 +79,6 @@ cp -R skills/mai-you-pu ~/.codex/skills/
 
 原创代码及技能文字采用 [MIT](LICENSE)。官方单品图片、产品名称及商标归各自权利人，**不在本项目 MIT 授权范围内**；图片来源在 [清单](dist/assets/sources.json) 和 [图片说明](dist/assets/credits.html)。AI 辅助制作的薯条蘸圆筒 logo 与酱料示意见 [AI 素材说明](dist/assets/generated-sources.json)，不是官方标识或商品照片。
 
-参考 [麦麦热量管家](https://github.com/WilderNoTrack/mcd-calorie-butler) 的 Skill + 示例页面组织方式，本项目代码与文字独立实现。
 
 ## 参赛
 
