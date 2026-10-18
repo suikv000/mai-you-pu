@@ -1,0 +1,630 @@
+{
+  "version": 2,
+  "compiled_at": "2026-10-18",
+  "notice": "来源核查截至编制日；无实时库存或价格、无本项目实测。步骤含简化适配。",
+  "recipes": [
+    {
+      "id": "fries-cone",
+      "name": "咸甜薯条",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "薯条",
+          "quantity": 1,
+          "unit": "份",
+          "optional": false
+        },
+        {
+          "product": "圆筒冰淇淋",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "取一根薯条蘸少量冰淇淋。",
+        "现蘸现吃，不把整份薯条泡进去。"
+      ],
+      "evidence": "official",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "sources": [
+        {
+          "url": "https://www.mcdonalds.com.cn/news/big-heat-day-2015-tips",
+          "title": "大薯日：奇葩的“消薯”秘籍送给你",
+          "published_at": null,
+          "retrieved_at": "2026-10-18",
+          "region": "中国大陆",
+          "supports": "2015年历史文章提及薯条蘸甜筒或新地；精确发布日期未核实。"
+        }
+      ],
+      "notes": [
+        "步骤为便于执行的整理。新地可作为标明替换的变体。"
+      ],
+      "category": "甜品"
+    },
+    {
+      "id": "hashbrown-muffin",
+      "name": "脆脆满分堡",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "猪柳蛋麦满分",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "薯饼",
+          "quantity": 1,
+          "unit": "块",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "打开麦满分上层面包。",
+        "夹入薯饼，再盖上面包。"
+      ],
+      "evidence": "official",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "sources": [
+        {
+          "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/fan-hacks-menu.html",
+          "title": "McDonald’s USA Introduces Fan-Inspired Hacks",
+          "published_at": "2022-01-26",
+          "retrieved_at": "2026-10-18",
+          "region": "美国",
+          "supports": "2022年历史活动介绍麦满分夹薯饼、双吉配鸡块及烧烤酱、双吉与麦香鱼组合；不证明中国当前供应。"
+        },
+        {
+          "url": "https://www.mcdonalds.com.cn/know_your_icon/麦满分家族",
+          "title": "麦满分家族",
+          "published_at": null,
+          "retrieved_at": "2026-10-18",
+          "region": "中国大陆",
+          "supports": "介绍本地麦满分产品及粉丝搭配薯饼记录，不证明全天供应。"
+        }
+      ],
+      "notes": [
+        "美国配方的国内产品适配，优先按早餐匹配。"
+      ],
+      "category": "早餐"
+    },
+    {
+      "id": "nugget-double",
+      "name": "鸡块双吉堡",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "双层吉士汉堡",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "麦乐鸡",
+          "quantity": 2,
+          "unit": "块",
+          "optional": false
+        },
+        {
+          "product": "烧烤酱",
+          "quantity": null,
+          "unit": "适量",
+          "optional": true
+        }
+      ],
+      "steps": [
+        "打开双吉，先夹入两块麦乐鸡。",
+        "可少量加烧烤酱，盖好面包。",
+        "余下鸡块正常食用。"
+      ],
+      "evidence": "official",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "sources": [
+        {
+          "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/fan-hacks-menu.html",
+          "title": "McDonald’s USA Introduces Fan-Inspired Hacks",
+          "published_at": "2022-01-26",
+          "retrieved_at": "2026-10-18",
+          "region": "美国",
+          "supports": "2022年历史活动介绍麦满分夹薯饼、双吉配鸡块及烧烤酱、双吉与麦香鱼组合；不证明中国当前供应。"
+        }
+      ],
+      "notes": [
+        "原 Crunchy Double 含烧烤酱；无酱版是适配。两块起步是本项目操作建议，并非官方指定用量。购买包装可能多于所需量。"
+      ],
+      "category": "汉堡"
+    },
+    {
+      "id": "surf-turf",
+      "name": "海陆双拼堡",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "双层吉士汉堡",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "麦香鱼",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "打开两个汉堡。",
+        "将鱼排连同附着的芝士与酱料移入双吉中，盖好。",
+        "剩余面包正常食用。"
+      ],
+      "evidence": "official",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "sources": [
+        {
+          "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/fan-hacks-menu.html",
+          "title": "McDonald’s USA Introduces Fan-Inspired Hacks",
+          "published_at": "2022-01-26",
+          "retrieved_at": "2026-10-18",
+          "region": "美国",
+          "supports": "2022年历史活动介绍麦满分夹薯饼、双吉配鸡块及烧烤酱、双吉与麦香鱼组合；不证明中国当前供应。"
+        }
+      ],
+      "notes": [
+        "对应历史 Surf + Turf。移入鱼排是简化操作建议；不是当前可直接点单的官方国内产品。"
+      ],
+      "category": "汉堡"
+    },
+    {
+      "id": "meatsauce-fries-burger",
+      "name": "肉酱薯条堡",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "汉堡",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "超级肉酱薯条",
+          "quantity": 1,
+          "unit": "份",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "打开汉堡。",
+        "把部分肉酱和薯条均匀夹入，再盖好。",
+        "余下薯条正常食用。"
+      ],
+      "evidence": "official",
+      "tested_by_us": false,
+      "availability": "historical",
+      "sources": [
+        {
+          "url": "https://www.mcdonalds.com.cn/news/Meat-Sauce-French-Fries",
+          "title": "肉酱薯条还能这样吃？",
+          "published_at": "2017-12-08",
+          "retrieved_at": "2026-10-18",
+          "region": "中国大陆部分餐厅",
+          "supports": "官方介绍夹入汉堡；历史推广期2017-11-29至2017-12-26，早餐后供应。"
+        }
+      ],
+      "notes": [
+        "等待回归核实。新肉酱产品不能直接视为原产品复活，应建关联变体。"
+      ],
+      "category": "汉堡"
+    },
+    {
+      "id": "fries-sundae",
+      "name": "巧克力咸甜薯",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "薯条",
+          "quantity": 1,
+          "unit": "份",
+          "optional": false
+        },
+        {
+          "product": "朱古力新地",
+          "quantity": 1,
+          "unit": "杯",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "先用一根薯条蘸少量新地，试试咸甜比例。",
+        "喜欢巧克力味就再带一点巧克力酱，现蘸现吃。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.mcdonalds.com.cn/news/big-heat-day-2015-tips",
+          "title": "大薯日：奇葩的“消薯”秘籍送给你",
+          "published_at": null,
+          "retrieved_at": "2026-10-18",
+          "region": "中国大陆",
+          "supports": "2015年历史文章提及薯条蘸甜筒或新地；精确发布日期未核实。"
+        }
+      ],
+      "notes": [
+        "官网介绍薯条蘸新地；指定朱古力口味和用量为本项目细化，尚未实测。"
+      ],
+      "evidence": "official",
+      "display_evidence": "官方吃法 · 口味细化",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "category": "甜品",
+      "visual": {
+        "art": [
+          "fries",
+          "sundae"
+        ],
+        "tag": "甜品",
+        "description": "给咸甜组合再加一点巧克力味。"
+      }
+    },
+    {
+      "id": "hash-flurry",
+      "name": "冰火薯饼夹心",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "薯饼",
+          "quantity": 2,
+          "unit": "块",
+          "optional": false
+        },
+        {
+          "product": "奥利奥麦旋风",
+          "quantity": 1,
+          "unit": "杯",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "把薯饼稍放至能拿稳、不烫手。",
+        "取少量麦旋风夹在两块薯饼中，轻轻合上。",
+        "马上吃；剩下的麦旋风单独食用。"
+      ],
+      "sources": [
+        {
+          "url": "https://woman.tvbs.com.tw/lifestyle/65799",
+          "title": "店員私藏8個麥當勞隱藏吃法",
+          "region": "中国台湾",
+          "supports": "介绍两块薯饼夹冰炫风；时段和当地供应未核实。",
+          "published_at": "2026-07-12",
+          "retrieved_at": "2026-10-18"
+        }
+      ],
+      "notes": [
+        "媒体原例是薯饼夹冰炫风；这里选用奥利奥口味。早餐薯饼与冰品能否同时买到需要当地核实，勿提前久放。"
+      ],
+      "evidence": "media",
+      "display_evidence": "媒体吃法 · 口味适配",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "category": "早餐",
+      "visual": {
+        "art": [
+          "hash",
+          "flurry"
+        ],
+        "tag": "早餐",
+        "description": "两块脆薯饼，中间夹一口冰凉奶香。"
+      }
+    },
+    {
+      "id": "pineapple-flurry",
+      "name": "菠萝派冰淇淋搭档",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "菠萝派",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "奥利奥麦旋风",
+          "quantity": 1,
+          "unit": "杯",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "把菠萝派分成小段，待馅料不烫口。",
+        "用勺子舀少量麦旋风放在派上。",
+        "一口一份地吃，保留派皮的酥脆。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.mcdonalds.com/gb/en-gb/newsroom/article/secret-menu.html",
+          "title": "英国麦当劳 Secret Menu",
+          "region": "英国及爱尔兰",
+          "supports": "2026年历史活动介绍苹果派配焦糖麦旋风，以及鸡肉饼与牛肉饼组成的芝士汉堡。国内替换版不是官方原配方。",
+          "published_at": "2026-01-05",
+          "retrieved_at": "2026-10-18"
+        }
+      ],
+      "notes": [
+        "原例是苹果派搭焦糖麦旋风；本版换成菠萝派与奥利奥麦旋风。水果和甜度不同，不代表原版口感。"
+      ],
+      "evidence": "idea",
+      "display_evidence": "海外灵感改编 · 待实测",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "category": "甜品",
+      "visual": {
+        "art": [
+          "pineapple",
+          "flurry"
+        ],
+        "tag": "甜品",
+        "description": "热派配冰品，先从一小口开始试。"
+      }
+    },
+    {
+      "id": "taro-flurry",
+      "name": "香芋奥利奥派",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "香芋派",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "奥利奥麦旋风",
+          "quantity": 1,
+          "unit": "杯",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "掰开香芋派，等馅料降至不烫口。",
+        "取一小块派，放上一勺麦旋风。",
+        "试过甜度后再决定加多少，别一次全部混合。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.mcdonalds.com/gb/en-gb/newsroom/article/secret-menu.html",
+          "title": "英国麦当劳 Secret Menu",
+          "region": "英国及爱尔兰",
+          "supports": "2026年历史活动介绍苹果派配焦糖麦旋风，以及鸡肉饼与牛肉饼组成的芝士汉堡。国内替换版不是官方原配方。",
+          "published_at": "2026-01-05",
+          "retrieved_at": "2026-10-18"
+        }
+      ],
+      "notes": [
+        "由苹果派搭冰品衍生的新组合；香芋派加奥利奥并非来源中的官方配方，属于待实测脑洞。"
+      ],
+      "evidence": "idea",
+      "display_evidence": "脑洞待试",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "category": "甜品",
+      "visual": {
+        "art": [
+          "taro",
+          "flurry"
+        ],
+        "tag": "甜品",
+        "description": "香芋馅遇见饼干碎，甜口爱好者的小实验。"
+      }
+    },
+    {
+      "id": "fries-double",
+      "name": "薯条双吉堡",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "双层吉士汉堡",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "薯条",
+          "quantity": 1,
+          "unit": "份",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "打开双吉上层面包。",
+        "挑几根薯条平铺在肉饼上，不要堆得太高。",
+        "盖好面包，剩余薯条单独吃。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.mcdonalds.com.cn/news/Meat-Sauce-French-Fries",
+          "title": "肉酱薯条还能这样吃？",
+          "published_at": "2017-12-08",
+          "retrieved_at": "2026-10-18",
+          "region": "中国大陆部分餐厅",
+          "supports": "官方介绍夹入汉堡；历史推广期2017-11-29至2017-12-26，早餐后供应。"
+        }
+      ],
+      "notes": [
+        "来源原例为肉酱薯条夹汉堡。本版去掉肉酱，用普通薯条和双吉，是便于动手的适配，不等于原历史配方复活。"
+      ],
+      "evidence": "idea",
+      "display_evidence": "官方灵感改编 · 待实测",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "category": "汉堡",
+      "visual": {
+        "art": [
+          "burger",
+          "fries"
+        ],
+        "tag": "汉堡",
+        "description": "给双吉加一层薯条，换个方式吃这一餐。"
+      }
+    },
+    {
+      "id": "land-air-sea",
+      "name": "海陆空合体堡",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "巨无霸",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "麦香鸡",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "麦香鱼",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "打开汉堡，把麦香鸡的鸡肉饼、麦香鱼的鱼排取出。",
+        "将鸡肉饼和鱼排加入巨无霸，按自己拿得稳的高度组合。",
+        "太高时拆成两份分享；余下的面包正常食用。"
+      ],
+      "sources": [
+        {
+          "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/fan-hacks-menu.html",
+          "title": "McDonald’s USA Introduces Fan-Inspired Hacks",
+          "published_at": "2022-01-26",
+          "retrieved_at": "2026-10-18",
+          "region": "美国",
+          "supports": "2022年历史活动介绍麦满分夹薯饼、双吉配鸡块及烧烤酱、双吉与麦香鱼组合；不证明中国当前供应。"
+        }
+      ],
+      "notes": [
+        "对应美国历史 Land, Air & Sea。拆取肉饼为简化操作；分量较大、剩余面包较多，更适合两人分食。"
+      ],
+      "evidence": "official",
+      "display_evidence": "官方历史案例 · 国内适配",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "category": "汉堡",
+      "visual": {
+        "art": [
+          "bigmac",
+          "chicken",
+          "fish"
+        ],
+        "tag": "汉堡",
+        "description": "牛、鸡、鱼集合，适合一起分着尝。"
+      }
+    },
+    {
+      "id": "chicken-double",
+      "name": "鸡牛双拼堡",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "双层吉士汉堡",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        },
+        {
+          "product": "麦香鸡",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "取出麦香鸡的鸡肉饼，保留附着的酱料。",
+        "把鸡肉饼夹入双吉，盖好面包。",
+        "剩余麦香鸡面包单独吃，或和朋友分享。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.mcdonalds.com/gb/en-gb/newsroom/article/secret-menu.html",
+          "title": "英国麦当劳 Secret Menu",
+          "region": "英国及爱尔兰",
+          "supports": "2026年历史活动介绍苹果派配焦糖麦旋风，以及鸡肉饼与牛肉饼组成的芝士汉堡。国内替换版不是官方原配方。",
+          "published_at": "2026-01-05",
+          "retrieved_at": "2026-10-18"
+        }
+      ],
+      "notes": [
+        "英国原例是单层牛肉饼与鸡肉饼芝士堡。本版使用双吉与麦香鸡，肉饼数量及酱料不同，属于适配。"
+      ],
+      "evidence": "idea",
+      "display_evidence": "海外灵感改编 · 待实测",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "category": "汉堡",
+      "visual": {
+        "art": [
+          "burger",
+          "chicken"
+        ],
+        "tag": "汉堡",
+        "description": "酥脆鸡肉与牛肉合体，留意分量。"
+      }
+    },
+    {
+      "id": "hash-cone",
+      "name": "薯饼蘸圆筒",
+      "name_origin": "麦有谱自拟名称",
+      "ingredients": [
+        {
+          "product": "薯饼",
+          "quantity": 1,
+          "unit": "块",
+          "optional": false
+        },
+        {
+          "product": "圆筒冰淇淋",
+          "quantity": 1,
+          "unit": "个",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "将薯饼掰成方便拿的小块。",
+        "用小块薯饼轻蘸少量圆筒冰淇淋。",
+        "现蘸现吃，别让薯饼浸软。"
+      ],
+      "sources": [
+        {
+          "url": "https://woman.tvbs.com.tw/lifestyle/65799",
+          "title": "店員私藏8個麥當勞隱藏吃法",
+          "region": "中国台湾",
+          "supports": "介绍两块薯饼夹冰炫风；时段和当地供应未核实。",
+          "published_at": "2026-07-12",
+          "retrieved_at": "2026-10-18"
+        }
+      ],
+      "notes": [
+        "由薯饼夹冰炫风改成圆筒蘸法，属于本项目改编，未实测。薯饼和冰品的供应时段可能不重叠。"
+      ],
+      "evidence": "idea",
+      "display_evidence": "媒体灵感改编 · 待实测",
+      "tested_by_us": false,
+      "availability": "unknown",
+      "category": "早餐",
+      "visual": {
+        "art": [
+          "hash",
+          "cone"
+        ],
+        "tag": "早餐",
+        "description": "把冰火夹心改成轻轻一蘸。"
+      }
+    }
+  ]
+}

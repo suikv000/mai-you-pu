@@ -1,0 +1,106 @@
+[
+  {
+    "key": "cone",
+    "name": "圆筒冰淇淋",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2020/05/202005270949182813.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/desserts",
+    "local": "cone.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "fish",
+    "name": "麦香鱼",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208081013175111.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/",
+    "local": "fish.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "burger",
+    "name": "双层吉士汉堡",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2025/05/202505191553352680.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/",
+    "local": "burger.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "fries",
+    "name": "薯条",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208091547349086.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/snacks",
+    "local": "fries.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "nuggets",
+    "name": "麦乐鸡 (5块)",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208091547543048.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/snacks",
+    "local": "nuggets.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "muffin",
+    "name": "猪柳蛋麦满分",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208091558498724.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/Breakfast-26",
+    "local": "muffin.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "hash",
+    "name": "脆薯饼",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208091604513345.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/Breakfast-26",
+    "local": "hash.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "flurry",
+    "name": "奥利奥麦旋风",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2020/03/202003191447419769.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/desserts",
+    "local": "flurry.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "sundae",
+    "name": "朱古力新地",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2020/03/202003191510126381.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/desserts",
+    "local": "sundae.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "taro",
+    "name": "香芋派",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208091556569394.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/desserts",
+    "local": "taro.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "pineapple",
+    "name": "菠萝派",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208091557147058.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/desserts",
+    "local": "pineapple.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "bigmac",
+    "name": "巨无霸",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208081011205699.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/",
+    "local": "bigmac.png",
+    "checked_at": "2026-10-18"
+  },
+  {
+    "key": "chicken",
+    "name": "麦香鸡",
+    "image": "https://officiaweb-afd.mcdonalds.com.cn/public/upload/attachment/2022/08/202208081013011355.png",
+    "page": "https://www.mcdonalds.com.cn/product/mcdonalds/",
+    "local": "chicken.png",
+    "checked_at": "2026-10-18"
+  }
+]

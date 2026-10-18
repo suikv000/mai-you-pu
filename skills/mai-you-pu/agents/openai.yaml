@@ -1,0 +1,4 @@
+interface:
+  display_name: "麦有谱"
+  short_description: "按手中餐品发现麦当劳组合吃法，核实季节回归并生成可分享的配方卡"
+  default_prompt: "使用 $mai-you-pu，看看我手里的麦当劳餐品能组合出什么新吃法，并保留来源。"
