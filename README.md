@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/形式-Skill%20%2B%20Web-466B52?style=flat-square" alt="Skill + Web" />
     <img src="https://img.shields.io/badge/原创代码-MIT-817868?style=flat-square" alt="MIT" />
   </p>
-  <p><a href="#运行演示">快速体验</a> · <a href="#安装-skill">安装 Skill</a> · <a href="MCP_INTEGRATION.md">MCP 接入</a> · <a href="dist/recipes.json">翻翻配方库</a></p>
+  <p><a href="https://suikv000.github.io/mai-you-pu/">🍟 在线体验</a> · <a href="#运行演示">本地运行</a> · <a href="#安装-skill">安装 Skill</a> · <a href="MCP_INTEGRATION.md">MCP 接入</a> · <a href="dist/recipes.json">翻翻配方库</a></p>
 </div>
 
 ![麦有谱交互界面：选择餐品，发现组合吃法](docs/images/preview.png)
@@ -45,6 +45,8 @@
 适合想换种吃法、利用已有餐品或关注季节单品的消费者。独立创意项目，非麦当劳官方产品。
 
 ## 运行演示
+
+**[打开在线演示 →](https://suikv000.github.io/mai-you-pu/)** · 无需安装或填写 Token，即可选餐品、匹配吃法和下载分享卡。活动区展示带日期的历史快照。
 
 需要 Python 3，无第三方依赖。在仓库目录运行：
 
